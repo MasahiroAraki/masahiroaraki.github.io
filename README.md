@@ -1,2 +1,0 @@
-masahiroaraki.github.io
-=======================
