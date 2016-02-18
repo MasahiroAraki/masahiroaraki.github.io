@@ -15,7 +15,7 @@ html {
 }
 
 body {
-  margin: 0;
+  margin: 20px;
 }
 
 article,
@@ -6116,7 +6116,7 @@ tbody.collapse.in {
   display: inline-block;
 }
 .breadcrumb > li + li:before {
-  content: "/ ";
+  content: "/?";
   padding: 0 5px;
   color: #ccc;
 }
