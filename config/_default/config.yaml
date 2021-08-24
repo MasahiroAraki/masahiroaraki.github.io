@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Masahiro Araki's home page # Website name
-baseurl: 'https://masahiroaraki.github.io/' # Website URL
+baseurl: 'https://masahiroaraki.github.io' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
