@@ -57,7 +57,7 @@
 - id: btn_download
   translation: ダウンロード
 - id: interests
-  translation: 興味・関心
+  translation: 研究
 - id: education
   translation: 学歴
 - id: user_profile_latest
@@ -87,7 +87,7 @@
 - id: abstract
   translation: 概要
 - id: publication
-  translation: 収録
+  translation: 出版社
 - id: publication_type
   translation: タイプ
 - id: date
@@ -152,3 +152,6 @@
   translation: 詳細を見る
 - id: published_with
   translation: Published with {wowchemy} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
+- id: who
+  translation: 誰
+  

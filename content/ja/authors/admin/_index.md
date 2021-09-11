@@ -6,7 +6,7 @@ title: 荒木 雅弘
 superuser: true
 
 # Role/position/tagline
-role: 情報工学・人間科学系 准教授
+#role: 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,7 +64,11 @@ email: ""
 highlight_name: false
 ---
 
+### 所属
+- [情報工学・人間科学系](https://www.is.kit.ac.jp/) 准教授
+- [インタラクティブ知能研究室](http://www.ii.is.kit.ac.jp/)
+- [産学公連携推進センター](https://www.liaison.kit.ac.jp/index.php) リカレント教育推進室長
+
 音声認識、対話システム、機械学習、セマンティックwebなどに関して初学者向けの教科書を執筆しています。
 
-京都工芸繊維大学 産学公連携推進センター リカレント教育推進室長を兼務しています。
-
+社会人を対象とした講習会（機械学習入門、情報の基礎（高等学校情報Iに準拠））を実施しています。

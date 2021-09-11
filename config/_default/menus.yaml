@@ -4,22 +4,19 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: ホーム
     url: '#about'
     weight: 10
-  - name: Posts
+  - name: お知らせ
     url: '#posts'
     weight: 20
-  - name: Projects
+  - name: 出版
+    url: '#featured'
+    weight: 25
+  - name: 研究
     url: '#projects'
     weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
-  - name: Publications
-    url: '#featured'
-    weight: 50
-  - name: Contact
+  - name: コンタクト
     url: '#contact'
     weight: 60
 
