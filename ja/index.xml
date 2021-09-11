@@ -130,8 +130,53 @@ color: navy;
 　市役所を舞台に展開し、回帰（イベントの実行）、識別１（検診）、評価（機械学習を学んだ結果の確認）、識別２（農産物のサイズ特定など）、教師なし学習（行政サービス）という流れで物語を楽しみながら、機械学習を一通り学ぶことができます。&lt;/p>
 &lt;/blockquote>
 &lt;p>&lt;a href="https://www.ohmsha.co.jp/book/9784274222443/" target="_blank" rel="noopener">出版社のページ&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://github.com/MasahiroAraki/mangaML" target="_blank" rel="noopener">サポートページ&lt;/a>&lt;/p></description></item><item><title>Example Project</title><link>https://masahiroaraki.github.io/ja/project/example/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://masahiroaraki.github.io/ja/project/example/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;p>&lt;a href="https://github.com/MasahiroAraki/mangaML" target="_blank" rel="noopener">サポートページ&lt;/a>&lt;/p></description></item><item><title>フリーソフトではじめる機械学習入門(第2版)</title><link>https://masahiroaraki.github.io/ja/publication/ml2/</link><pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate><guid>https://masahiroaraki.github.io/ja/publication/ml2/</guid><description>&lt;p>出版社の紹介文&lt;/p>
+&lt;blockquote>
+&lt;p>◆機械学習の理論をわかりやすく解説&lt;br>
+数式をしっかり扱いつつも、平易なことばで直感的な理解ができるよう工夫されています。また、分析したいデータの種類によってアルゴリズムを分類・整理して解説することで、現実で問題に直面した際に適用できるアルゴリズムが何なのかが理解でき、必要な部分から学んでいけるよう構成されています。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>◆幅広い手法を網羅&lt;br>
+「機械学習とは何か」という初歩の初歩から、識別・モデル推定といった基本的な考えかた、ニューラルネットワーク・サポートベクトルマシンといった応用手法、そして深層学習・強化学習といった発展的なトピックまで、様々なアルゴリズムがとりあげられています。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>◆Python/Wekaでアルゴリズムを実装&lt;br>
+アルゴリズムの解説だけでなく、Python/Wekaによる実装例も多数掲載されています。理論を学んだあとに、解析例をもとにデータの読み込みから結果の可視化まで1ステップずつ実装していくことで、表面的な理解にとどまらない、「現場で役立つ」知識が身につきます。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>第2版では、Pythonによる実装例が多数追加されたほか、勾配ブースティング・リカレントニューラルネットワーク・深層強化学習などの近年話題のトピック追加をはじめとして、全面的に最新の解説にアップデートされています。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;a href="https://www.morikita.co.jp/books/mid/085212" target="_blank" rel="noopener">出版社のページ&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://github.com/MasahiroAraki/MachineLearning" target="_blank" rel="noopener">サポートページ&lt;/a>&lt;/p></description></item><item><title>フリーソフトでつくる音声認識システム(第2版)</title><link>https://masahiroaraki.github.io/ja/publication/pattern2/</link><pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate><guid>https://masahiroaraki.github.io/ja/publication/pattern2/</guid><description>&lt;p>出版社の紹介文&lt;/p>
+&lt;blockquote>
+&lt;p>・機械学習のしくみを知りたいけど、数学は苦手…&lt;br>
+・専門書を読みたいけど、数式ばかりで挫折した…&lt;br>
+という人を「機械学習の世界」に導く，おすすめの1冊！&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>前半部では、機械学習・パターン認識の基礎を学びます。機械学習の理論を学習しようとすると、高度な数学の知識が必要と思われがちですが、本書は「パターン認識ってなに？」といった初歩の初歩からかみくだいて解説しています。もちろん初歩だけでなく、ニューラルネットワーク・サポートベクトルマシンなどの重要トピックの理論的な側面まで、Scilab、Wekaを使ったパターン認識の演習を行いながら学ぶことができます。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>後半部では、HTK、Julius、MMDなどのフリーソフトを使いながら音声認識システムをつくっていきます。音声やテキストに対してパターン認識を適用する際は、隠れマルコフモデル・N-gramなどの言語モデルに関する難解な知識が必要になりますが、手を動かすと同時に理論面も学習することによって、音声認識にとどまらない「実際の認識に使える」知識が身につきます。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>「学びはじめの1冊に最適」と評判の機械学習の定番入門書が、リカレントニューラルネットワーク・畳込みニューラルネットワークなど近年の技術動向を反映した解説を加えて第2版となりました。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;a href="https://www.morikita.co.jp/books/mid/084712" target="_blank" rel="noopener">出版社のページ&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://github.com/MasahiroAraki/SpeechRecognition" target="_blank" rel="noopener">サポートページ&lt;/a>&lt;/p></description></item><item><title>Example Project</title><link>https://masahiroaraki.github.io/ja/project/example/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://masahiroaraki.github.io/ja/project/example/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
 &lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
 &lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
 &lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
-&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title/><link>https://masahiroaraki.github.io/ja/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://masahiroaraki.github.io/ja/admin/config.yml</guid><description/></item></channel></rss>
+&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>イラストで学ぶ音声認識</title><link>https://masahiroaraki.github.io/ja/publication/asr/</link><pubDate>Fri, 23 Jan 2015 00:00:00 +0000</pubDate><guid>https://masahiroaraki.github.io/ja/publication/asr/</guid><description>&lt;p>出版社の紹介文&lt;/p>
+&lt;blockquote>
+&lt;p>スマートフォンで爆発的に普及した音声認識技術は、実現困難といわれていた&amp;hellip;。では、なぜ、ここまで普及したのか。&lt;br>
+音声認識技術の歴史から最先端キーテクノロジーまでを、イラストで明快に解説。&lt;br>
+WFSTによる音声認識を詳しく解説した和書は本邦初! もう、買わずにはいられない!&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;a href="https://www.kspub.co.jp/book/detail/1538245.html" target="_blank" rel="noopener">出版社のページ&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://github.com/MasahiroAraki/GuideToASR" target="_blank" rel="noopener">サポートページ&lt;/a>&lt;/p></description></item><item><title>フリーソフトで学ぶセマンティックWebとインタラクション</title><link>https://masahiroaraki.github.io/ja/publication/web/</link><pubDate>Thu, 09 Dec 2010 00:00:00 +0000</pubDate><guid>https://masahiroaraki.github.io/ja/publication/web/</guid><description>&lt;p>出版社の紹介文&lt;/p>
+&lt;blockquote>
+&lt;p>セマンティックWebの技術と，それに伴って高度化するインタラクション技術を，フリーソフトを使って実際に例題を解きながら学ぶ入門書．仕様書の背景にある「必然性」に注目して解説することで，なぜそのような決まりになっているのか，初学者にもわかりやすく，体系的に理解できるようになっています．&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;a href="https://www.morikita.co.jp/books/mid/084901" target="_blank" rel="noopener">出版社のページ&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://github.com/MasahiroAraki/WebTech" target="_blank" rel="noopener">サポートページ&lt;/a>&lt;/p></description></item><item><title/><link>https://masahiroaraki.github.io/ja/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://masahiroaraki.github.io/ja/admin/config.yml</guid><description/></item></channel></rss>
