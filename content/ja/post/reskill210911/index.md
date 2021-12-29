@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "社会人対象の講習会"
+title: "公開講座の資料公開"
 subtitle: ""
-summary: "2021年11月から機械学習入門、情報の基礎（高等学校情報Iに準拠）をテーマとした社会人対象講習会の実施を予定しています。"
+summary: "2021年11月から始まっている公開講座「[機械学習入門](https://github.com/MasahiroAraki/MLCourse)」と「[情報の基礎](https://github.com/MasahiroAraki/Informatics-I)」（高等学校情報Iに準拠）の資料を公開しています。"
 authors: []
 tags: []
 categories: []
-date: 2021-09-11T10:00:56+09:00
-lastmod: 2021-09-11T10:00:56+09:00
+date: 2021-12-29T10:00:56+09:00
+lastmod: 2021-12-29T10:00:56+09:00
 featured: false
 draft: false
 
@@ -28,4 +28,7 @@ image:
 projects: []
 ---
 
-詳細は後日お知らせします。
+以下のリンク先で各講座の資料を公開しています。
+
+* [機械学習入門](https://github.com/MasahiroAraki/MLCourse)
+* [情報の基礎](https://github.com/MasahiroAraki/Informatics-I)
