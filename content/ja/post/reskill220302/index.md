@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "公開講座の資料公開"
+title: "2022年度 履修証明プログラムのお知らせ"
 subtitle: ""
-summary: "2021年11月から始まっている公開講座「[機械学習入門](https://masahiroaraki.github.io/MLCourse/)」と「[情報の基礎](https://masahiroaraki.github.io/Informatics-I)」（高等学校情報Iに準拠）の資料を公開しています。"
+summary: "2022年度 履修証明プログラム「[機械学習・IoT・ビッグデータ技術履修コース](http://www.ii.is.kit.ac.jp/program22a/)」が始まります。"
 authors: []
 tags: []
 categories: []
-date: 2021-12-29T10:00:56+09:00
-lastmod: 2021-12-29T10:00:56+09:00
+date: 2022-03-03T15:00:00+09:00
+lastmod: 2022-03-03T15:00:00+09:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-以下のリンク先で各講座の資料を公開しています。
+詳細は以下のリンク先を参照してください。
 
-* [機械学習入門](https://masahiroaraki.github.io/MLCourse/)
-* [情報の基礎](https://masahiroaraki.github.io/Informatics-I)
+* [大学のイベント告知ページ](https://www.kit.ac.jp/events/events220407/)
+* [プログラムの詳細](http://www.ii.is.kit.ac.jp/program22a/)
