@@ -42,7 +42,7 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.jp/citations?user=y5mp6UUAAAAJ&hl=ja&oi=ao
+  link: https://scholar.google.co.jp/citations?user=y5mp6UUAAAAJ&hl=ja&oi=ao&sortby=pubdate&
 - icon: github
   icon_pack: fab
   link: https://github.com/MasahiroAraki/
@@ -66,9 +66,11 @@ highlight_name: false
 
 ### 所属
 - [情報工学・人間科学系](https://www.is.kit.ac.jp/) 准教授
-- [インタラクティブ知能研究室](http://www.ii.is.kit.ac.jp/)
+  - [インタラクティブ知能研究室](http://www.ii.is.kit.ac.jp/)
 - [産学公連携推進センター](https://www.liaison.kit.ac.jp/index.php) リカレント教育推進室長
 
 音声認識、対話システム、機械学習、セマンティックwebなどに関して初学者向けの教科書を執筆しています。
 
 社会人を対象とした講習会を実施しています。
+
+Publications: [Google Scholar](https://scholar.google.co.jp/citations?user=y5mp6UUAAAAJ&hl=ja&oi=ao&sortby=pubdate&)
