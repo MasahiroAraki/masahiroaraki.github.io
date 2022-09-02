@@ -2,6 +2,7 @@
 # An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
+#active: false
 
 # This file represents a page section.
 headless: true
@@ -10,19 +11,19 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: 
 
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  
+  email: araki@kit.ac.jp
   # Email form provider
   #form:
   #  provider: netlify
   #  formspree:
   #    id:
   #  netlify:
-      # Enable CAPTCHA challenge to reduce spam?
+  #    # Enable CAPTCHA challenge to reduce spam?
   #    captcha: false
   
 design:
