@@ -71,6 +71,6 @@ highlight_name: false
 
 音声認識、対話システム、機械学習、セマンティックwebなどに関して初学者向けの[教科書](https://masahiroaraki.github.io/ja/#featured)を執筆しています。
 
-「機械学習」「情報の基礎」をテーマとした[リカレント教育](https://masahiroaraki.github.io/ja/work/recurrent/)を実施しています。
+「機械学習」「情報の基礎」をテーマとした[リカレント教育](https://masahiroaraki.github.io/ja/education/recurrent/)を実施しています。
 
 Publications: [Google Scholar](https://scholar.google.co.jp/citations?user=y5mp6UUAAAAJ&hl=ja&oi=ao&sortby=pubdate&)
