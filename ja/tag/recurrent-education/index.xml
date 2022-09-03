@@ -99,7 +99,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;li>公開講座
 &lt;ul>
 &lt;li>&lt;a href="https://www.kit.ac.jp/events/events211118/" target="_blank" rel="noopener">機械学習入門&lt;/a> / &lt;a href="https://github.com/MasahiroAraki/MLCourse/tree/master/archive/2021/2021b" target="_blank" rel="noopener">【資料のページ】&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.kit.ac.jp/events/events211119/" target="_blank" rel="noopener">情報の基本 高等学校情報Ⅰが常識になる時代を迎えて&lt;/a> / &lt;a href="https://github.com/MasahiroAraki/Informatics-I" target="_blank" rel="noopener">【資料のページ】&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kit.ac.jp/events/events211119/" target="_blank" rel="noopener">情報の基本 高等学校情報Ⅰが常識になる時代を迎えて&lt;/a> / &lt;a href="https://masahiroaraki.github.io/Informatics-I/" target="_blank" rel="noopener">【資料のページ】&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
@@ -116,6 +116,6 @@ height="444"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;p>2022年度の履修証明プログラムも2021年度と同様に企画したのですが、受講申込者数が定員に達しなかったため、開講中止となりました。AI・機械学習は需要が一回りしたような感触です。学ぶべき人は何らかの方法ですでに学んでおり、今後はそういう人たちが継続して学べるような場を提供するべきだと感じています。&lt;/p>
+&lt;p>2022年度の履修証明プログラムも2021年度と同様に企画したのですが、受講申込者数が定員に達しなかったため開講中止となりました。AI・機械学習は需要が一回りしたような感触です。学ぶべき人は何らかの方法ですでに学んでおり、今後はそういう人たちが継続して学べるような場を提供するべきだと感じています。&lt;/p>
 &lt;h3 id="今後に向けて">今後に向けて&lt;/h3>
 &lt;p>社会人向け講座の実施を通じて、基礎の学び直しの需要を感じています。数学では線形代数や統計学、情報関連ではプログラミングや情報デザインなどです。また、より効果的な教育を目指して、ラーニングアナリティクスに関する基盤整備も必要だと感じています。&lt;/p></description></item></channel></rss>
