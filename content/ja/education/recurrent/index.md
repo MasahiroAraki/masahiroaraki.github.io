@@ -1,6 +1,6 @@
 ---
 title: リカレント教育・リスキル教育
-summary: 「機械学習」「情報の基礎」をテーマとした社会人向け講座を実施しています
+summary: 「機械学習」「情報の基本」をテーマとした社会人向け講座を実施しています
 tags:
 - recurrent education
 date: "2022-09-03T00:00:00Z"
@@ -88,12 +88,12 @@ slides: example
 
 - 公開講座
   - [機械学習入門](https://www.kit.ac.jp/events/events211118/) / [【資料のページ】](https://github.com/MasahiroAraki/MLCourse/tree/master/archive/2021/2021b)
-  - [情報の基本 高等学校情報Ⅰが常識になる時代を迎えて](https://www.kit.ac.jp/events/events211119/) / [【資料のページ】](https://github.com/MasahiroAraki/Informatics-I)
+  - [情報の基本 高等学校情報Ⅰが常識になる時代を迎えて](https://www.kit.ac.jp/events/events211119/) / [【資料のページ】](https://masahiroaraki.github.io/Informatics-I/)
 
 ![情報の基本のテキスト](jyouhou.jpg)
 
 
-2022年度の履修証明プログラムも2021年度と同様に企画したのですが、受講申込者数が定員に達しなかったため、開講中止となりました。AI・機械学習は需要が一回りしたような感触です。学ぶべき人は何らかの方法ですでに学んでおり、今後はそういう人たちが継続して学べるような場を提供するべきだと感じています。
+2022年度の履修証明プログラムも2021年度と同様に企画したのですが、受講申込者数が定員に達しなかったため開講中止となりました。AI・機械学習は需要が一回りしたような感触です。学ぶべき人は何らかの方法ですでに学んでおり、今後はそういう人たちが継続して学べるような場を提供するべきだと感じています。
 
 ### 今後に向けて
 

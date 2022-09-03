@@ -69,8 +69,8 @@ highlight_name: false
   - [インタラクティブ知能研究室](http://www.ii.is.kit.ac.jp/)
 - [産学公連携推進センター](https://www.liaison.kit.ac.jp/index.php) リカレント教育推進室長
 
-音声認識、対話システム、機械学習、セマンティックwebなどに関して初学者向けの[教科書](https://masahiroaraki.github.io/ja/#featured)を執筆しています。
+・音声認識、対話システム、機械学習、セマンティックwebなどに関して初学者向けの[教科書](https://masahiroaraki.github.io/ja/#featured)を執筆しています。
 
-「機械学習」「情報の基礎」をテーマとした[リカレント教育](https://masahiroaraki.github.io/ja/education/recurrent/)を実施しています。
+・「機械学習」「情報の基本」をテーマとした[リカレント教育](https://masahiroaraki.github.io/ja/education/recurrent/)を実施しています。
 
-Publications: [Google Scholar](https://scholar.google.co.jp/citations?user=y5mp6UUAAAAJ&hl=ja&oi=ao&sortby=pubdate&)
+・発表論文等: [Google Scholar](https://scholar.google.co.jp/citations?user=y5mp6UUAAAAJ&hl=ja&oi=ao&sortby=pubdate&)

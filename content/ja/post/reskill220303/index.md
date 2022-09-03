@@ -3,7 +3,7 @@
 
 title: "公開講座の資料公開"
 subtitle: ""
-summary: "2021年度公開講座「[機械学習入門](https://github.com/MasahiroAraki/MLCourse/tree/master/archive/2021/2021b)」と「[情報の基礎](https://masahiroaraki.github.io/Informatics-I)」（高等学校情報Iに準拠）の資料を公開しています。"
+summary: "2021年度公開講座「[機械学習入門](https://github.com/MasahiroAraki/MLCourse/tree/master/archive/2021/2021b)」と「[情報の基本](https://masahiroaraki.github.io/Informatics-I)」（高等学校情報Iに準拠）の資料を公開しています。"
 authors: []
 tags: []
 categories: []
@@ -30,5 +30,5 @@ projects: []
 
 以下のリンク先で各講座の資料を公開しています。
 
-* [機械学習入門](https://masahiroaraki.github.io/MLCourse/)
-* [情報の基礎](https://masahiroaraki.github.io/Informatics-I)
+* [機械学習入門](https://github.com/MasahiroAraki/MLCourse/tree/master/archive/2021/2021b)
+* [情報の基本](https://masahiroaraki.github.io/Informatics-I)
