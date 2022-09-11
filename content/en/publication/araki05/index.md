@@ -3,7 +3,7 @@
 
 title: "Spoken, Multilingual and Multimodal Dialogue Systems: Development and Assessment"
 authors: [Ramon Lopez Cozar Delgado, Masahiro Araki]
-date: 2005-01-01
+date: 2005-11-11
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
