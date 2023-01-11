@@ -1,4 +1,76 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Educations | MA's home page</title><link>https://masahiroaraki.github.io/ja/education/</link><atom:link href="https://masahiroaraki.github.io/ja/education/index.xml" rel="self" type="application/rss+xml"/><description>Educations</description><generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate><image><url>https://masahiroaraki.github.io/media/icon_hu0a52fa16666e3c1eab1b889b957174b0_233941_512x512_fill_lanczos_center_3.png</url><title>Educations</title><link>https://masahiroaraki.github.io/ja/education/</link></image><item><title>リカレント教育・リスキル教育</title><link>https://masahiroaraki.github.io/ja/education/recurrent/</link><pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate><guid>https://masahiroaraki.github.io/ja/education/recurrent/</guid><description>&lt;h3 id="現在の社会の状況">現在の社会の状況&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Educations | MA's home page</title><link>https://masahiroaraki.github.io/ja/education/</link><atom:link href="https://masahiroaraki.github.io/ja/education/index.xml" rel="self" type="application/rss+xml"/><description>Educations</description><generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://masahiroaraki.github.io/media/icon_hu0a52fa16666e3c1eab1b889b957174b0_233941_512x512_fill_lanczos_center_3.png</url><title>Educations</title><link>https://masahiroaraki.github.io/ja/education/</link></image><item><title>令和5年度 リカレント教育（情報工学分野）予告【非公式】</title><link>https://masahiroaraki.github.io/ja/education/recurrent23/</link><pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate><guid>https://masahiroaraki.github.io/ja/education/recurrent23/</guid><description>&lt;h3 id="このページについて">このページについて&lt;/h3>
+&lt;p>令和5年度に実施される 京都工芸繊維大学 「KITリカレント教育プログラム 機械学習・IoT・ビッグデータ技術履修コース」の内容予告です。非公式の内容なので、正確な情報は大学のホームページで発信される内容をご覧ください。&lt;/p>
+&lt;h3 id="概要">概要&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>参加対象&lt;/p>
+&lt;ul>
+&lt;li>大学卒業以上。理工系大学初年次程度の微積分・線形代数の知識、または実務でのプログラミング経験があることが望ましい&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>対象科目&lt;/p>
+&lt;ul>
+&lt;li>情報工学専攻 大学院科目
+&lt;ul>
+&lt;li>情報工学の専門科目&lt;/li>
+&lt;li>4月上旬から6月上旬、および9月下旬から11月下旬にかけて実施&lt;/li>
+&lt;li>科目により対面、オンライン、ハイフレックスなど実施形態が異なる&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>本コースのために開講される科目
+&lt;ul>
+&lt;li>主としてデータサイエンス・機械学習を対象とした科目&lt;/li>
+&lt;li>9月下旬から11月下旬にかけて実施&lt;/li>
+&lt;li>一部対面の場合もあるが、原則としてオンライン受講が可能&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>申し込みの時期&lt;/p>
+&lt;ul>
+&lt;li>各科目開講の約10日前まで&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>得られる証明等&lt;/p>
+&lt;ul>
+&lt;li>60時間以上の履修で履修証明書を発行&lt;/li>
+&lt;li>履修証明書の発行を希望しない場合は、聴講のみの参加も可能&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>受講料：科目毎の受講が可能&lt;/p>
+&lt;ul>
+&lt;li>～15時間 30,000円&lt;/li>
+&lt;li>16～30時間 60,000円&lt;/li>
+&lt;li>31～60時間 90,000円&lt;/li>
+&lt;li>以降、1時間毎に1,000円追加&lt;/li>
+&lt;li>（ただし、1時間は「45分の講義・演習」+「15分の自習時間」として計算します）&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="科目">科目&lt;/h3>
+&lt;ul>
+&lt;li>システム設計特論 &lt;a href="https://www.syllabus.kit.ac.jp/?c=detail&amp;amp;pk=1789&amp;amp;schedule_code=62201501" target="_blank" rel="noopener">2022年度シラバス&lt;/a>&lt;/li>
+&lt;li>IoTプロセシング特論 &lt;a href="https://www.syllabus.kit.ac.jp/?c=detail&amp;amp;pk=1794&amp;amp;schedule_code=62201201" target="_blank" rel="noopener">2022年度シラバス&lt;/a>&lt;/li>
+&lt;li>ソフトウェアマイニング分析論 &lt;a href="https://www.syllabus.kit.ac.jp/?c=detail&amp;amp;pk=1797&amp;amp;schedule_code=62215201" target="_blank" rel="noopener">2022年度シラバス&lt;/a>&lt;/li>
+&lt;li>データサイエンスプログラミング ※新規開講科目&lt;/li>
+&lt;li>機械学習基礎 &lt;a href="https://github.com/MasahiroAraki/MLCourse/tree/master/archive/2021/2021%E5%B1%A5%E4%BF%AE%E8%A8%BC%E6%98%8E" target="_blank" rel="noopener">2021年度の資料&lt;/a>&lt;/li>
+&lt;li>機械学習応用 &lt;a href="https://github.com/MasahiroAraki/MLCourse/tree/master/archive/2021/2021%E5%B1%A5%E4%BF%AE%E8%A8%BC%E6%98%8E" target="_blank" rel="noopener">2021年度の資料&lt;/a>&lt;/li>
+&lt;li>データサイエンス基礎 &lt;a href="https://www.kit.ac.jp/wp/wp-content/uploads/2022/08/Data-Science-Basics_Schedule.pdf" target="_blank" rel="noopener">2022年度の内容&lt;/a>&lt;/li>
+&lt;li>クラウドソフトウェア開発 &lt;a href="https://www.kit.ac.jp/wp/wp-content/uploads/2022/08/Cloud-Software-Development_Schedule.pdf" target="_blank" rel="noopener">2022年度の内容&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="モデルコース">モデルコース&lt;/h3>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="モデルコース"
+src="https://masahiroaraki.github.io/ja/education/recurrent23/model.drawio.svg"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>リカレント教育・リスキル教育</title><link>https://masahiroaraki.github.io/ja/education/recurrent/</link><pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate><guid>https://masahiroaraki.github.io/ja/education/recurrent/</guid><description>&lt;h3 id="現在の社会の状況">現在の社会の状況&lt;/h3>
 &lt;p>「人生100年」および「Society5.0」の時代において、教育・仕事・引退の3ステージライフは破綻をきたしているといえます。たとえば、22歳で大学卒業、65歳で退職すると、就労期間は43年間です。技術が加速度的に進展する現代で、大学卒業時の知識が43年間有効であり続けることは期待できません。&lt;/p>
 &lt;p>
 &lt;figure >
