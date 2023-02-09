@@ -66,12 +66,13 @@ slides: example
 
 ### 科目
 
-- システム設計特論 (4/11-6/1 30時間) [2022年度シラバス](https://www.syllabus.kit.ac.jp/?c=detail&pk=1789&schedule_code=62201501)
-- IoTプロセシング特論 (4/11-6/1 30時間) [2022年度シラバス](https://www.syllabus.kit.ac.jp/?c=detail&pk=1794&schedule_code=62201201)
-- ソフトウェアマイニング分析論 (9/29-11/17 15時間) [2022年度シラバス](https://www.syllabus.kit.ac.jp/?c=detail&pk=1797&schedule_code=62215201)
-- データサイエンスプログラミング (9/28-10/19 15時間) ※新規開講科目
-- 機械学習基礎 (9/28-10/19 15時間) [2021年度の資料](https://github.com/MasahiroAraki/MLCourse/tree/master/archive/2021/2021%E5%B1%A5%E4%BF%AE%E8%A8%BC%E6%98%8E)
-- 機械学習応用 (10/26-11/16 30時間) [2021年度の資料](https://github.com/MasahiroAraki/MLCourse/tree/master/archive/2021/2021%E5%B1%A5%E4%BF%AE%E8%A8%BC%E6%98%8E)
+- システム設計特論 (4/10-6/1 30時間) [2022年度シラバス](https://www.syllabus.kit.ac.jp/?c=detail&pk=1789&schedule_code=62201501)
+- IoTプロセシング特論 (4/10-6/1 30時間) [2022年度シラバス](https://www.syllabus.kit.ac.jp/?c=detail&pk=1794&schedule_code=62201201)
+- データサイエンス特論 (6/5-7/31 15時間) [2022年度シラバス](https://www.syllabus.kit.ac.jp/?c=detail&pk=1801&schedule_code=62201202)
+- ソフトウェアマイニング分析論 (9/29-11/21 15時間) [2022年度シラバス](https://www.syllabus.kit.ac.jp/?c=detail&pk=1797&schedule_code=62215201)
+- データサイエンスプログラミング (9月下旬から 15時間) ※新規開講科目
+- 機械学習基礎 (9月下旬から 15時間) [2021年度の資料](https://github.com/MasahiroAraki/MLCourse/tree/master/archive/2021/2021%E5%B1%A5%E4%BF%AE%E8%A8%BC%E6%98%8E)
+- 機械学習応用 (10月下旬から 30時間) [2021年度の資料](https://github.com/MasahiroAraki/MLCourse/tree/master/archive/2021/2021%E5%B1%A5%E4%BF%AE%E8%A8%BC%E6%98%8E)
 - データサイエンス基礎 (10月 15時間) [2022年度の内容](https://www.kit.ac.jp/wp/wp-content/uploads/2022/08/Data-Science-Basics_Schedule.pdf)
 - クラウドソフトウェア開発 (11月 15時間) [2022年度の内容](https://www.kit.ac.jp/wp/wp-content/uploads/2022/08/Cloud-Software-Development_Schedule.pdf)
 
