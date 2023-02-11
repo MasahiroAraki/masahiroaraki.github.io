@@ -9,7 +9,11 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>リカレント教育・リスキル教育</title><link>https://masahiroaraki.github.io/ja/education/recurrent/</link><pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate><guid>https://masahiroaraki.github.io/ja/education/recurrent/</guid><description>&lt;h3 id="現在の社会の状況">現在の社会の状況&lt;/h3>
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>ロールプレイング対話システム</title><link>https://masahiroaraki.github.io/ja/project/roleplay/</link><pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate><guid>https://masahiroaraki.github.io/ja/project/roleplay/</guid><description>&lt;p>医療面接等、専門的な対応を要するユーザのための対話トレーニングシステムを開発しています。システムが患者役になって、与えられたシナリオに基づいて病状や経過についての質問に回答できるようになることが目標です。&lt;/p>
+&lt;p>発表論文:&lt;/p>
+&lt;ul>
+&lt;li>黒田 佑哉, 荒木 雅弘: 医療面接シミュレータにおける医者役の質問内容の識別, 人工知能学会研究会資料 言語・音声理解と対話処理研究会, Vol. 96, pp. 1-6, 2022. &lt;a href="https://www.jstage.jst.go.jp/article/jsaislud/96/0/96_01/_article/-char/ja/" target="_blank" rel="noopener">doi: https://doi.org/10.11517/jsaislud.96.0_01&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>リカレント教育・リスキル教育</title><link>https://masahiroaraki.github.io/ja/education/recurrent/</link><pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate><guid>https://masahiroaraki.github.io/ja/education/recurrent/</guid><description>&lt;h3 id="現在の社会の状況">現在の社会の状況&lt;/h3>
 &lt;p>「人生100年」および「Society5.0」の時代において、教育・仕事・引退の3ステージライフは破綻をきたしているといえます。たとえば、22歳で大学卒業、65歳で退職すると、就労期間は43年間です。技術が加速度的に進展する現代で、大学卒業時の知識が43年間有効であり続けることは期待できません。&lt;/p>
 &lt;p>
 &lt;figure >
