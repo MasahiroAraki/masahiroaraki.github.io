@@ -4,7 +4,7 @@ summary: KITリカレント教育プログラム 機械学習・IoT・ビッグ�
 
 tags:
 - recurrent education
-date: "2023-02-9T00:00:00Z"
+date: "2023-02-11T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
