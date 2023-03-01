@@ -4,7 +4,7 @@ summary: KITリカレント教育プログラム 機械学習・IoT・ビッグ�
 
 tags:
 - recurrent education
-date: "2023-02-11T00:00:00Z"
+date: "2023-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -33,7 +33,9 @@ slides: example
 
 ### このページについて
 
-令和5年度に実施される予定の 京都工芸繊維大学 「KITリカレント教育プログラム 機械学習・IoT・ビッグデータ技術履修コース」の内容予告です。非公式の内容なので、正確な情報は大学のホームページで発信される内容をご覧ください。
+令和5年度に実施される予定の 京都工芸繊維大学 「KITリカレント教育プログラム 機械学習・IoT・ビッグデータ技術履修コース」の内容予告です。~~非公式の内容なので、正確な情報は大学のホームページで発信される内容をご覧ください。~~
+
+(2023.2.17) 正式な募集案内が大学HPに掲載されました (https://www.kit.ac.jp/events/events230410/)
 
 ### 概要
 
@@ -55,7 +57,7 @@ slides: example
 
 - 得られる証明等
   - 60時間以上の履修で履修証明書を発行
-  - 履修証明書の発行を希望しない場合は、聴講のみの参加も可能
+  - 履修証明書の発行を希望しない場合は、一部科目への聴講のみの参加も可能
 
 - 受講料：科目毎の受講が可能
   - ～15時間 30,000円
@@ -70,9 +72,9 @@ slides: example
 - IoTプロセシング特論 (4/10-6/1 30時間) [2022年度シラバス](https://www.syllabus.kit.ac.jp/?c=detail&pk=1794&schedule_code=62201201)
 - データサイエンス特論 (6/5-7/31 15時間) [2022年度シラバス](https://www.syllabus.kit.ac.jp/?c=detail&pk=1801&schedule_code=62201202)
 - ソフトウェアマイニング分析論 (9/29-11/21 15時間) [2022年度シラバス](https://www.syllabus.kit.ac.jp/?c=detail&pk=1797&schedule_code=62215201)
-- データサイエンスプログラミング (9月下旬から 15時間) ※新規開講科目
-- 機械学習基礎 (9月下旬から 15時間) [2021年度の資料](https://github.com/MasahiroAraki/MLCourse/tree/master/archive/2021/2021%E5%B1%A5%E4%BF%AE%E8%A8%BC%E6%98%8E)
-- 機械学習応用 (10月下旬から 30時間) [2021年度の資料](https://github.com/MasahiroAraki/MLCourse/tree/master/archive/2021/2021%E5%B1%A5%E4%BF%AE%E8%A8%BC%E6%98%8E)
+- データサイエンスプログラミング (9/28(木)、10/5(木)･12(木)･19(木) 8:50-12:00（予定） 15時間) ※新規開講科目
+- 機械学習基礎 (9/28(木)、10/5(木)･12(木)･19(木) 12:50-16:00（予定） 15時間) [2021年度の資料](https://github.com/MasahiroAraki/MLCourse/tree/master/archive/2021/2021%E5%B1%A5%E4%BF%AE%E8%A8%BC%E6%98%8E)
+- 機械学習応用 (10/26(木)、11/2(木)･9(木)･16(木) 8:50-12:00、12:50-16:00（予定） 30時間) [2021年度の資料](https://github.com/MasahiroAraki/MLCourse/tree/master/archive/2021/2021%E5%B1%A5%E4%BF%AE%E8%A8%BC%E6%98%8E)
 - データサイエンス基礎 (10月 15時間) [2022年度の内容](https://www.kit.ac.jp/wp/wp-content/uploads/2022/08/Data-Science-Basics_Schedule.pdf)
 - クラウドソフトウェア開発 (11月 15時間) [2022年度の内容](https://www.kit.ac.jp/wp/wp-content/uploads/2022/08/Cloud-Software-Development_Schedule.pdf)
 
