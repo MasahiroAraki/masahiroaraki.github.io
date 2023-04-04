@@ -66,11 +66,11 @@ highlight_name: false
 
 ### 所属
 - [情報工学・人間科学系](https://www.is.kit.ac.jp/) 准教授
-  - [インタラクティブ知能研究室](http://www.ii.is.kit.ac.jp/)
+  - [自然言語処理研究室](https://mmi-kit.github.io/mmi-web/)
 - [産学公連携推進センター](https://www.liaison.kit.ac.jp/index.php) リカレント教育推進室長
 
 ・音声認識、対話システム、機械学習、セマンティックwebなどに関して初学者向けの[教科書](https://masahiroaraki.github.io/ja/#featured)を執筆しています。
 
-・「機械学習」「情報の基本」をテーマとした[リカレント教育](https://masahiroaraki.github.io/ja/education/recurrent/)を実施しています。
+・機械学習をテーマとした[リカレント教育](https://masahiroaraki.github.io/ja/education/recurrent/)を実施しています。
 
 ・発表論文等: [Google Scholar](https://scholar.google.co.jp/citations?user=y5mp6UUAAAAJ&hl=ja&oi=ao&sortby=pubdate&)
