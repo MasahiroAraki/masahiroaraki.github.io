@@ -7,8 +7,8 @@ summary: "2023年度履修証明プログラム「KITリカレント教育プロ
 authors: []
 tags: []
 categories: []
-date: 2022-03-03T14:00:00+09:00
-lastmod: 2022-03-03T14:00:00+09:00
+date: 2023-04-04T13:00:00+09:00
+lastmod: 2023-04-04T13:00:00+09:00
 featured: false
 draft: false
 
