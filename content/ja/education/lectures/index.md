@@ -31,12 +31,12 @@ slides: example
 ---
 
 - 学部
-  - プログラミングI [【シラバス】](https://www.syllabus.kit.ac.jp/?c=detail&pk=1099&schedule_code=12223101)
-  - AI・データサイエンス基礎　[【シラバス】](https://www.syllabus.kit.ac.jp/?c=detail&pk=1127&schedule_code=12213201)
-  - AI・データサイエンス応用　[【シラバス】](https://www.syllabus.kit.ac.jp/?c=detail&pk=1114&schedule_code=12223201)
-  - 工芸科学基礎（共担）
+  - プログラミングI [【シラバス】](https://www.syllabus.kit.ac.jp/?c=detail&subject_no=12260001)
+  - AI・データサイエンス基礎　[【シラバス】](https://www.syllabus.kit.ac.jp/?c=detail&subject_no=12261031)
+  - AI・データサイエンス応用　[【シラバス】](https://www.syllabus.kit.ac.jp/?c=detail&subject_no=12260033)
+  - 工芸科学基礎（共担）[【シラバス】](https://www.syllabus.kit.ac.jp/?c=detail&subject_no=10160210)
 - 大学院
-  - 機械学習特論　[【シラバス】](https://www.syllabus.kit.ac.jp/?c=detail&pk=1790&schedule_code=62202201)
-  - フィジカルインタラクションデザイン（共担）
-  - 応用情報工学（共担）
-
+  - 機械学習特論　[【シラバス】](https://www.syllabus.kit.ac.jp/?c=detail&subject_no=62260040)
+  - インタラクションデザインI（共担）[【シラバス】](https://www.syllabus.kit.ac.jp/?c=detail&pk=1724&schedule_code=62203101)
+  - インタラクションデザインI（共担）[【シラバス】](https://www.syllabus.kit.ac.jp/?c=detail&pk=1726&schedule_code=62203102)
+  - 応用情報工学（共担）[【シラバス】](https://www.syllabus.kit.ac.jp/?c=detail&pk=2270&schedule_code=82111101)
