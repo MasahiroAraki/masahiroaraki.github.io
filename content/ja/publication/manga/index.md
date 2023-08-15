@@ -31,7 +31,7 @@ publication: オーム社
 #abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: 機械学習について、基礎知識から深層学習までの基礎知識をマンガで学べます。
+summary: 機械学習について、基礎知識から深層学習までの基礎知識をマンガで学べます。 <br/> <a href="https://masahiroaraki.github.io/mangaML/"> [スライドと Jupyter notebook] </a>
 
 tags: []
 
