@@ -81,4 +81,4 @@ image:
 
 [出版社のページ](https://www.ohmsha.co.jp/book/9784274222443/)
 
-[サポートページ](https://github.com/MasahiroAraki/mangaML)
+[サポートページ](https://masahiroaraki.github.io/mangaML/)

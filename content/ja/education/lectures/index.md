@@ -38,5 +38,5 @@ slides: example
 - 大学院
   - 機械学習特論　[【シラバス】](https://www.syllabus.kit.ac.jp/?c=detail&subject_no=62260040)
   - インタラクションデザインI（共担）[【シラバス】](https://www.syllabus.kit.ac.jp/?c=detail&pk=1724&schedule_code=62203101)
-  - インタラクションデザインI（共担）[【シラバス】](https://www.syllabus.kit.ac.jp/?c=detail&pk=1726&schedule_code=62203102)
+  - インタラクションデザインII（共担）[【シラバス】](https://www.syllabus.kit.ac.jp/?c=detail&pk=1726&schedule_code=62203102)
   - 応用情報工学（共担）[【シラバス】](https://www.syllabus.kit.ac.jp/?c=detail&pk=2270&schedule_code=82111101)

@@ -88,4 +88,4 @@ image:
 
 [出版社のページ](https://www.morikita.co.jp/books/mid/084712)
 
-[サポートページ](https://github.com/MasahiroAraki/SpeechRecognition)
+[サポートページ](https://masahiroaraki.github.io/SpeechRecognition)
