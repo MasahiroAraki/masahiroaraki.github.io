@@ -1,5 +1,5 @@
 ---
-title: 本務校 担当科目
+title: 担当科目
 summary: 京都工芸繊維大学・大学院 担当科目
 tags:
 - Education
