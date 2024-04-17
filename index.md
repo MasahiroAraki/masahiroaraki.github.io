@@ -3,7 +3,7 @@ layout: home
 title: "my publication"
 ---
 
-![image](https://github.com/MasahiroAraki/masahiroaraki.github.io/blob/main/images/books18-s.jpeg)
+![image](https://github.com/MasahiroAraki/masahiroaraki.github.io/blob/main/images/books18-s.jpeg?raw=true)
 
 # これまでに書いた本
 
