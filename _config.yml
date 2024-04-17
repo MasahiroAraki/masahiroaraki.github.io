@@ -1,0 +1,10 @@
+theme: minima
+
+header_pages:
+  - index.md
+  - en.md
+
+footer_text: "© 2024 Masahiro Araki. All rights reserved."
+
+url: "https://masahiroaraki.github.io"
+description: "my publication"
