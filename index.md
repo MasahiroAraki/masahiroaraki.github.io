@@ -3,7 +3,7 @@ layout: home
 title: "my publication"
 ---
 
-![image](https://github.com/MasahiroAraki/images/books18-s.jpeg)
+![image](https://github.com/MasahiroAraki/masahiroaraki.github.io/blob/main/images/books18-s.jpeg)
 
 # これまでに書いた本
 
@@ -28,3 +28,8 @@ title: "my publication"
 * Spoken, Multilingual and Multimodal Dialogue Systems: Development and Assessment
   * Ramon Lopez Cozar Delgado, Masahiro Araki
   * Wiley 2005年11月 (ISBN: 0470021551)
+
+# 研究業績
+
+* [Researchmap](https://researchmap.jp/araki/?lang=ja)
+* [Google Scholar](https://scholar.google.co.jp/citations?user=y5mp6UUAAAAJ&hl=ja&oi=ao)
