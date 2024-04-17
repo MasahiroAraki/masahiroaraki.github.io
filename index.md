@@ -1,12 +1,13 @@
 ---
 layout: home
-title: "my publication"
+title: "My publications"
 ---
 
 ![image](https://raw.githubusercontent.com/MasahiroAraki/masahiroaraki.github.io/main/images/books18-s.jpeg?token=GHSAT0AAAAAACFRIHHAVUQEZFG4KI7GUI5MZQ7RZVQ)
 
 # これまでに書いた本
 
+* [サポートページ](https://github.com/MasahiroAraki/)
 * マンガでわかる機械学習
   * 荒木 雅弘, 渡 まかな 作画, ウェルテ 制作
   * オーム社 2018年8月10日 (ISBN: 4274222446)
