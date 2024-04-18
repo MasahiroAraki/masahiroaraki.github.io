@@ -4,7 +4,7 @@ title: "English"
 permalink: /English/
 ---
 
-<img src="images/books18-s.jpeg" style="border: 1px"/>
+<img src="../images/books18-s.jpeg" style="border: 1px"/>
 
 # Publications
 
