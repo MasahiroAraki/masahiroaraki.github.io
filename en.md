@@ -4,7 +4,7 @@ title: "English"
 permalink: /English/
 ---
 
-![image](https://raw.githubusercontent.com/MasahiroAraki/masahiroaraki.github.io/main/images/books18-s.jpeg?token=GHSAT0AAAAAACFRIHHAVUQEZFG4KI7GUI5MZQ7RZVQ)
+<img src="images/books18-s.jpeg" style="border: 1px"/>
 
 # Publications
 
