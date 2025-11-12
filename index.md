@@ -3,7 +3,7 @@ layout: home
 title: "My publications"
 ---
 
-<img src="images/books18-s.jpeg" style="border: 1px"/>
+<img src="images/books2025.webp" style="border: 1px"/>
 
 # これまでに書いた本
 
