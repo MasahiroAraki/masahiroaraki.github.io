@@ -1,17 +1,14 @@
 ---
 layout: page
-title: "English"
+title: "My Publications"
 permalink: /English/
 ---
 
-<img src="../images/araki05.jpg" style="border: 1px"/>
-
-# Publications
+<img src="../images/araki05.jpg" width="300" style="border: 1px"/>
 
 ## Books
-* Spoken, Multilingual and Multimodal Dialogue Systems: Development and Assessment
-  * Ramon Lopez Cozar Delgado, Masahiro Araki
-  * Wiley, Nov, 2005 (ISBN: 0470021551)
+
+* Ramon Lopez Cozar Delgado, Masahiro Araki: Spoken, Multilingual and Multimodal Dialogue Systems: Development and Assessment, Wiley, Nov, 2005 (ISBN: 0470021551)
 
 ## Research
 
