@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "My Publications"
+title: "English page"
 permalink: /English/
 ---
 

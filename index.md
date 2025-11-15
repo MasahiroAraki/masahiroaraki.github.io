@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "My publications"
+title: "Japanese page"
 ---
 
 <img src="images/books2025.webp" width="600" style="border: 1px"/>
