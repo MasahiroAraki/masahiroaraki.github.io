@@ -8,9 +8,9 @@ title: "Japanese page"
 # これまでに書いた本
 
 * [サポートページ](https://github.com/MasahiroAraki/)
-* 【発売予定】 [Pythonではじめる機械学習](https://www.morikita.co.jp/books/mid/085861)
+* [Pythonではじめる機械学習](https://www.morikita.co.jp/books/mid/085861)
   * 荒木 雅弘
-  * 森北出版 2025年11月(ISBN:978-4-627-85861-9)
+  * 森北出版 2025年11月28日 (ISBN:978-4-627-85861-9)
 * [イラストで学ぶ 音声認識 改訂第2版](https://www.kspub.co.jp/book/detail/5394779.html)
   * 荒木 雅弘
   * 講談社 2025年5月20日 (ISBN:978-4-06-539477-9)
